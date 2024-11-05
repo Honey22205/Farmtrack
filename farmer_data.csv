@@ -1,0 +1,6 @@
+Farm_Size (acres),Crop_Type,Production_Level (kg),Fertilizer_Usage (kg),Water_Usage (liters),Yield (kg),Previous_FTS_Score,FTS_Score
+10,Wheat,500,30,1000,520,75,80
+5,Rice,600,40,1200,630,78,85
+12,Corn,550,35,1100,570,80,82
+8,Soybean,620,45,1150,650,76,86
+7,Barley,480,28,950,500,72,75
