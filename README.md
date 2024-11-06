@@ -20,7 +20,7 @@ To get started with FarmTrack, follow these steps:
 - PHP (version 7.4 or higher)
 - Composer
 - A web server (like Apache or Nginx)
-- MySQL or MariaDB
+- MySQL 
 - Git (for cloning the repository)
 
 ### Installation
