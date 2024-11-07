@@ -90,11 +90,3 @@ For any inquiries or support, feel free to reach out at [honeypriya.222005@gmail
 ---
 Happy Farming! 🌾
 ```
-
-### Customization Tips:
-- **Logo/Image**: Update the placeholder for the logo image with the actual path to your logo if you have one.
-- **Contact Information**: Make sure to include your actual email or preferred method of contact.
-- **Add More Features**: If your project has more features or functionalities, feel free to add them under the features section.
-- **Environment Setup**: Ensure that the instructions reflect your project's actual requirements.
-
-This README will provide a great introduction to your project and help users understand how to use it effectively. Let me know if you need any more help!
